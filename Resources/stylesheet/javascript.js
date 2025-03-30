@@ -52,24 +52,24 @@ function scrotop()
 function scrolll()
 {
    var left = document.querySelector("#scroll-images");
-   left.scrollBy(360,0)
+   left.scrollBy(330,0)
 }
 function scrollr()
 {
    var right = document.querySelector("#scroll-images");
-   right.scrollBy(-360,0)
+   right.scrollBy(-330,0)
 }
 
 
 function scrollll()
 {
    var left = document.querySelector("#scroll-images2");
-   left.scrollBy(368,0)
+   left.scrollBy(330,0)
 }
 function scrollrr()
 {
    var right = document.querySelector("#scroll-images2");
-   right.scrollBy(-368,0)
+   right.scrollBy(-330,0)
 }
 
 
